@@ -1,4 +1,4 @@
 # Projects
 
 Travel website,
-Hotel management.
+Hotel management
